@@ -1,2 +1,2 @@
-# Diplom-
+# Diploma
 html coder
